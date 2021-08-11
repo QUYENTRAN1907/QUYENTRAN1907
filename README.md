@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @QUYENTRAN1907
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-QUYENTRAN1907/QUYENTRAN1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+hello NGAN
+Cho cậu xem cái này![1b1ba0e5e813d9ddaab7d6373f6af8e7](https://user-images.githubusercontent.com/88778390/129027764-57ba7a49-ac54-4378-8ed8-1829a3f39ec0.png)
